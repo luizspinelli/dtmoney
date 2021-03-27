@@ -6,8 +6,8 @@ import { GlobalStyle } from './styles/globas';
 ReactDOM.render(
   <React.StrictMode>
     <>
-      <App />
       <GlobalStyle />
+      <App />
     </>
   </React.StrictMode>,
   document.getElementById('root')
