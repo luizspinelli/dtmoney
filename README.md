@@ -1,9 +1,8 @@
 <div align="center" id="top">
-  <img src="./src/assets/logo.png" alt="Dtmoney" />
+  <img src="./src/assets/logo.svg" alt="Dtmoney" />
 
   &#xa0;
 
-  <!-- <a href="https://dtmoney.netlify.app">Demo</a> -->
 </div>
 
 <h1 align="center">Dtmoney</h1>
