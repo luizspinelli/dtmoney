@@ -33,60 +33,51 @@
 <hr> -->
 
 <p align="center">
-  <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
-  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="#dart-about">Sobre</a> &#xa0; | &#xa0;
+  <a href="#rocket-technologies">Tecnologias</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requisitos</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-starting">Começando</a> &#xa0; | &#xa0;
+  <a href="#memo-license">Licença</a> &#xa0; | &#xa0;
   <a href="https://github.com/{{YOUR_GITHUB_USERNAME}}" target="_blank">Author</a>
 </p>
 
 <br>
 
-## :dart: About ##
+## :dart: Sobre ##
 
 Describe your project
 
-## :sparkles: Features ##
+## :rocket: Tecnologias ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+- React
+- Styled Components
+  - Polished
+- Axios
+- MirageJs
 
-## :rocket: Technologies ##
+## :white_check_mark: Requisitos ##
 
-The following tools were used in this project:
+Antes de começar :checkered_flag:, você precisa ter [Git](https://git-scm.com) e [Node](https://nodejs.org/en/) instalado.
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-
-## :white_check_mark: Requirements ##
-
-Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
-
-## :checkered_flag: Starting ##
+## :checkered_flag: Começando ##
 
 ```bash
-# Clone this project
+# Clone o projeto
 $ git clone https://github.com/{{YOUR_GITHUB_USERNAME}}/dtmoney
 
-# Access
+# Acesse
 $ cd dtmoney
 
-# Install dependencies
+# Instale as dependências
 $ yarn
 
-# Run the project
+# Rode o projeto
 $ yarn start
 
-# The server will initialize in the <http://localhost:3000>
+# O servidor irá começar em <http://localhost:3000>
 ```
 
-## :memo: License ##
+## :memo: Licença ##
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
